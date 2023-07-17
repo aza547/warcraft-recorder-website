@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fde3ca39-0791-45cc-bc76-06f60976d55a/resourceGroups/warcraft-recorder-website/providers/Microsoft.Web/sites/warcraft-recorder-website",
+    "appService.deploySubpath": "build"
+}
