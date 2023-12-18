@@ -21,9 +21,9 @@ function About() {
         component="img"
         src={preview}
         sx={{
-          height: '75%',
-          width: '75%',
-          aspectRatio: 16 / 9,
+          maxHeight: '85%',
+          maxWidth: '85%',
+          aspectRatio: 1.86,
           border: '1px solid black',
           boxShadow: 20,
           mb: 4,

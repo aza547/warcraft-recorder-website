@@ -20,7 +20,11 @@ function Home() {
       <Box
         component="img"
         src={logo}
-        sx={{ height: '50%' }}
+        sx={{
+          maxHeight: '60%',
+          maxWidth: '60%',
+          aspectRatio: 1,
+        }}
       />
       <Typography
         variant="h3"

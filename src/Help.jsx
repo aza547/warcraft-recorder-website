@@ -24,7 +24,7 @@ function Help() {
         flexDirection: 'column',
       }}
       >
-        See #faq in Discord, if still stuck please ask in #help.
+        See #faq in Discord. Please ask in #help if you have further questions.
         <Button
           variant="contained"
           href="https://discord.gg/BYWm8tCMPP"
