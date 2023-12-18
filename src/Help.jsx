@@ -1,6 +1,5 @@
 import { Box, Button } from '@mui/material';
 import React from 'react';
-import './App.css';
 
 function Help() {
   return (
@@ -10,7 +9,7 @@ function Help() {
         bgcolor: '#1A233A',
         color: 'white',
         height: '100%',
-        width: '90%',
+        width: '100%',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
@@ -28,7 +27,7 @@ function Help() {
         See #faq in Discord, if still stuck please ask in #help.
         <Button
           variant="contained"
-          href="https://github.com/aza547/wow-recorder/releases/latest"
+          href="https://discord.gg/BYWm8tCMPP"
           sx={{
             backgroundColor: '#bb4420',
             borderColor: '#bb4420',

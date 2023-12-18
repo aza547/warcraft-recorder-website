@@ -1,6 +1,5 @@
 import { Box, Tab, Tabs } from '@mui/material';
 import React from 'react';
-import './App.css';
 import Home from './Home';
 import About from './About';
 import Setup from './Setup';

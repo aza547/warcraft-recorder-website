@@ -1,6 +1,5 @@
 import { Box } from '@mui/material';
 import React from 'react';
-import './App.css';
 
 function Setup() {
   return (
@@ -9,8 +8,8 @@ function Setup() {
       sx={{
         bgcolor: '#1A233A',
         color: 'white',
-        height: '100vh',
-        width: '90%',
+        height: '100%',
+        width: '100%',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',

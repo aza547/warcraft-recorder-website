@@ -1,7 +1,6 @@
 import { Box, Typography, Button } from '@mui/material';
 import React from 'react';
 import logo from './logo.png';
-import './App.css';
 
 function Home() {
   return (
@@ -10,8 +9,8 @@ function Home() {
       sx={{
         bgcolor: '#1A233A',
         color: 'white',
-        height: '100vh',
-        width: '90%',
+        height: '100%',
+        width: '100%',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
