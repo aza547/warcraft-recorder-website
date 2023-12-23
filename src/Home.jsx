@@ -24,11 +24,14 @@ function Home() {
           maxHeight: '60%',
           maxWidth: '60%',
           aspectRatio: 1,
+          justifyContent: 'center',
+          alignItems: 'center',
         }}
       />
       <Typography
         variant="h3"
         sx={{ mb: 2 }}
+        align="center"
       >
         Warcraft Recorder
       </Typography>
