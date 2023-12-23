@@ -72,7 +72,7 @@ function Setup() {
               , if available.
             </li>
           </ul>
-          <li>Download and install the recommended combat logging addon.</li>
+          <li>Download and install the required combat logging addon.</li>
           <ul>
             <li>
               Retail:
