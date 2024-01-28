@@ -49,12 +49,13 @@ function Setup() {
               to the folder you just created.
             </li>
             <li>
-              Configure the location of your
+              Enable recording and set the location of your
               {' '}
               <b>World of Warcraft</b>
               {' '}
               logs folder.
             </li>
+            <li>Modify any other settings as desired.</li>
           </ul>
           <li>
             Click the
@@ -64,6 +65,7 @@ function Setup() {
             button and configure the OBS scene and recording settings.
           </li>
           <ul>
+            <li>Click the Scene button and configure the OBS scene and recording settings.</li>
             <li>Add your speakers and/or microphone if you want to include audio.</li>
             <li>
               Recommend selecting a
@@ -71,8 +73,12 @@ function Setup() {
               <b>hardware encoder</b>
               , if available.
             </li>
+            <li>Modify any other settings as desired.</li>
           </ul>
-          <li>Download and install the required combat logging addon.</li>
+          <li>
+            Install the required combat logging addon, enabling advanced combat logging
+            when prompted.
+          </li>
           <ul>
             <li>
               Retail:
